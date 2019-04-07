@@ -1,0 +1,19 @@
+*.pth
+tests.py
+_ARCHIVE/
+saves/
+unity-environment.log
+/Class_Reference/
+/ObstacleTower/
+*.bat
+
+
+# Mac OS
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
